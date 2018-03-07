@@ -1,0 +1,43 @@
+body 
+{
+    background-color: lightblue;
+}
+
+h1 
+{
+    color: navy;
+    margin-left: 20px;
+	font-family: verdana;
+}
+h2
+{
+	color:	#ff0000; /*red*/
+	margin-left: 20px;
+	font-family: verdana;
+}
+h3
+{
+	color: #5900b3; /*dark purple*/
+	font-family: verdana;
+}
+p
+{
+	font-family: verdana;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+	font-family: verdana;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
